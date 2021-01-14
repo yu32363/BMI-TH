@@ -3,9 +3,9 @@ import 'input_page.dart';
 import 'package:admob_flutter/admob_flutter.dart';
 
 void main() {
-  runApp(BMICalculatorTH());
   WidgetsFlutterBinding.ensureInitialized();
   Admob.initialize();
+  runApp(BMICalculatorTH());
 }
 
 class BMICalculatorTH extends StatelessWidget {
