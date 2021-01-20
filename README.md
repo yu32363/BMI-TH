@@ -1,7 +1,7 @@
 # BMI TH
 
 BMI Calculator in Thai application.
-[Download App](https://play.google.com/store/apps/details?id=com.sawatdikiat.bmi_calculator_th)
+[Download](https://play.google.com/store/apps/details?id=com.sawatdikiat.bmi_calculator_th)
 
 ![image](https://play-lh.googleusercontent.com/dFwOj4Nt89R1r90V_E3nvEc4CyetdwbMz6AU_yFMU_pztZ48JHiIOShX-mqgbO25qUa2=w1536-h722-rw)
 ![image](https://play-lh.googleusercontent.com/FKCt4kP-gh_KMNkZ6Usc99dOBnSqdxSsTk6c605UKw-6eYez2Pm3HRi6NyzX5CyHf4E=w1536-h722-rw)
